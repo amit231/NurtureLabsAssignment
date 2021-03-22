@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "David Melvik",
+    "designation": "Founder @ The Millnnials & CEO @ABC",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_jVqfeTvhtPM_VfHcCvFKRdTCLRF0KnwOA&usqp=CAU",
+    "rating": 4.9,
+    "reviews": 120,
+    "sessions": "02",
+    "price": "FREE",
+    "location": "Tampa, FL, USA",
+    "languages": "Greek, English, French",
+    "areas": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+  },
+  {
+    "id": 2,
+
+    "name": "David Melvik",
+    "designation": "Founder @ The Millnnials & CEO @ABC",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_jVqfeTvhtPM_VfHcCvFKRdTCLRF0KnwOA&usqp=CAU",
+    "rating": 4.9,
+    "reviews": 120,
+    "sessions": "02",
+    "price": "FREE",
+    "location": "Tampa, FL, USA",
+    "languages": "Greek, English, French",
+    "areas": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+  },
+  {
+    "id": 3,
+
+    "name": "David Melvik",
+    "designation": "Founder @ The Millnnials & CEO @ABC",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_jVqfeTvhtPM_VfHcCvFKRdTCLRF0KnwOA&usqp=CAU",
+    "rating": 4.9,
+    "reviews": 120,
+    "sessions": "02",
+    "price": "FREE",
+    "location": "Tampa, FL, USA",
+    "languages": "Greek, English, French",
+    "areas": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+  },
+  {
+    "id": 4,
+
+    "name": "David Melvik",
+    "designation": "Founder @ The Millnnials & CEO @ABC",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_jVqfeTvhtPM_VfHcCvFKRdTCLRF0KnwOA&usqp=CAU",
+    "rating": 4.9,
+    "reviews": 120,
+    "sessions": "02",
+    "price": "FREE",
+    "location": "Tampa, FL, USA",
+    "languages": "Greek, English, French",
+    "areas": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+  },
+  {
+    "id": 5,
+
+    "name": "David Melvik",
+    "designation": "Founder @ The Millnnials & CEO @ABC",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_jVqfeTvhtPM_VfHcCvFKRdTCLRF0KnwOA&usqp=CAU",
+    "rating": 4.9,
+    "reviews": 120,
+    "sessions": 2,
+    "price": "FREE",
+    "location": "Tampa, FL, USA",
+    "languages": "Greek, English, French",
+    "areas": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+  }
+]
